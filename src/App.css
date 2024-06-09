@@ -1,0 +1,16 @@
+.app{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.companies{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+.Services{
+    display: flex;
+}
